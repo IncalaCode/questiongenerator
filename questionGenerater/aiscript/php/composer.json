@@ -1,0 +1,5 @@
+{
+    "require": {
+        "convertapi/convertapi-php": "^2.0"
+    }
+}
